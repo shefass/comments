@@ -1,0 +1,6 @@
+const DIRECTORY_OF_FILES_TO_READ = './codeFilesForTesting/';  
+const TO_WHAT_FILE_SAVE_REPORT = './reports/answer.txt';
+
+
+exports.DIRECTORY_OF_FILES_TO_READ = DIRECTORY_OF_FILES_TO_READ;
+exports.TO_WHAT_FILE_SAVE_REPORT = TO_WHAT_FILE_SAVE_REPORT;
